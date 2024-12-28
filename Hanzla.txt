@@ -1,0 +1,2 @@
+File is in writing mode Hi am Hanzla And I am 11 years old
+ File is in append mode Hi am Abuzar And I am 5 years old
